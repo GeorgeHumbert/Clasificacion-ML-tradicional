@@ -1,0 +1,2 @@
+passengerid,pclass,age,sibsp,parch,fare,familysize,sex_0,sex_1,embarked_c_False,embarked_c_True,embarked_q_False,embarked_q_True,embarked_s_False,embarked_s_True,prediccion
+0,1,29,1,0,50,1,0,0,0,0,0,0,0,0,1
